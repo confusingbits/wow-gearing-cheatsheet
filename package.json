@@ -1,0 +1,18 @@
+{
+  "name": "wow-gearing-cheatsheet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --no-css-inject",
+    "format": "prettier --write index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "live-server": "^1.2.2",
+    "prettier": "^3.6.2"
+  },
+  "dependencies": {}
+}
